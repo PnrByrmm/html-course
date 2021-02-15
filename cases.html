@@ -9,7 +9,7 @@
   </head>
   <body>
     <header>
-      <a href="index.html" class="header-brand">mmtuts</a>
+      <a href="index.php" class="header-brand">mmtuts</a>
       <nav>
         <ul>
           <li><a href="portfolio.html">Portfolio</a></li>
