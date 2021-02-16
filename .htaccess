@@ -1,4 +1,4 @@
-ErrorDocument 404 /not-found
+ErrorDocument 404 /not-found-page.html
 
 # mod_rewrite stars here
 
